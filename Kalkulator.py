@@ -14,3 +14,4 @@ elif sammensetting == "**":
     print(heltall_1, "**", heltall_2, "=", heltall_1 ** heltall_2)
 else:
     print("Ugyldig operasjon.")
+
